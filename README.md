@@ -1,9 +1,12 @@
 # Project Outline
 
-## Project Demo Video:
+## Project Demo Videos:
 
-Project Pitch (1 Min): https://www.youtube.com/watch?v=0KqPo5OysVM
-Project Demo (6 Min): https://www.youtube.com/watch?v=o6eGbKIQbAg
+Project Pitch (1 Min): 
+https://www.youtube.com/watch?v=0KqPo5OysVM
+
+Project Demo (6 Min): 
+https://www.youtube.com/watch?v=o6eGbKIQbAg
 
 ## Overview
 
